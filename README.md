@@ -6,7 +6,7 @@ Problem Statement: Create an access control mechanism in a public cloud, wherein
 identity is verified in the private cloud and is federated.
 
 Description:
-The Project solution comprised of two parts.
+The Project solution comprises of two parts.
 
 Part 1: The adminstrator assigns permissions to users according to their roles/identities. Each role has one or more access rights which are again decided by adminstrator.The Single Sign-On facility is guaranteed as the identity of a particular users are verified once and all the accesses which are given to them can be used.
 
